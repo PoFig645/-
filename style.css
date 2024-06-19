@@ -1,0 +1,54 @@
+header{
+    height: 400px;
+    
+    text-align: center;
+    color:rgb(83, 16, 146);
+    padding: 50px;
+    font-size: 50px;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStuullMCK98XQDKsuPcPJoibzMyBpQXE8uaA&s);
+    background-size: cover;
+}
+
+body{
+    margin: 0px;
+}
+
+main{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.container{
+    background-color: rgba(195, 0, 255, 0.418);
+    
+    padding: 20px;
+}
+
+.block1{
+    font-size: 20px;
+    text-align: justify;
+}
+
+.block2{
+    text-align: center;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+.social img {
+width: 100px;
+padding-left: 10px;
+}
+
+.social {
+list-style: none;
+display: flex;
+align-items: center;
+justify-content: center;
+}
